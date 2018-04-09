@@ -20,7 +20,7 @@ Hence, I collected some awesome papers and resources here!
 <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by contacting [me](https://markdtw.github.io/) or add [pull request](https://github.com/markdtw/awesome-architecture-search/pulls)
+Please help contribute this list by contacting [me](https://briandicky.github.io/) or add [pull request](https://github.com/briandicky/awesome-360video-search/pulls)
 
 Markdown format:
 ```markdown
