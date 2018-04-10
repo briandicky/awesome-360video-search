@@ -11,9 +11,27 @@ Majority of present global Internet traffic is due to video data ([Global Intern
 Streaming 360{\degree} videos further increases the Internet traffic amount, and becomes a hot research topic.
 Hence, I collected some awesome papers and resources here!
 
+
 ## Table of Contents
+- [Surveys](#survey)
+- [Systems](#system)
+- [Datasets](#dataset)
+- [Open Software](#software)
+- [Optimization](#optimization)
+    - [Acquisition](#acquisition)
+    - [Encoding](#encoding)
+    - [Transmission](#transmission)
+    - [Display](#display)
+    - [Quality Assessments](#quality)
+- [Applications](#application)
+- [Others](#other)
+
 
 ## 360-degree Video Search
+
+### Surveys
+- C. Lee, A. Tabatabai, and K. Tashiro, "Free viewpoint video (FVV) survey and future research direction," 
+*APSIPA Transactions on Signal and Information Processing*, vol. 4, no. 15, pp. 1–10, October 2015.
 
 ## Contributing
 <p align="center">
@@ -24,8 +42,15 @@ Please help contribute this list by contacting [me](https://briandicky.github.io
 
 Markdown format:
 ```markdown
-- Paper Name [[pdf]](link) [[code]](link)
-- Author 1, Author 2 and Author 3. *Conference'Year*
+(Conference paper)
+- Author 1, Author 2 and Author 3, "Paper Name," 
+in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year. [[pdf]](link) [[code]](link)
+```
+
+```markdown
+(Journal paper)
+- Auther 1, Auther 2 and Author 3, "Paper Name," 
+*Journal Name*, vol. xxx, no. xxx, pp. xxx-xxx, Month Year. [[pdf]](link) [[code]](link)
 ```
 
 ## License
