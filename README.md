@@ -14,10 +14,10 @@ Hence, I collected some awesome papers and resources here!
 ----
 
 ## Table of Contents
-- [Surveys](#survey)
-- [Systems](#system)
-- [Datasets](#dataset)
-- [Open Software](#software)
+- [Surveys](#surveys)
+- [Systems](#systems)
+- [Datasets](#datasets)
+- [Open Software](#open-software)
 - [Optimization](#optimization)
     - [Acquisition](#acquisition)
     - [Encoding](#encoding)
@@ -64,20 +64,17 @@ in *Proc. of International Conference on Systems, Signals and Image Processing (
 ## Open Software
 
 
-## Optimization/Acquisition
+## Optimization
 
+### Acquisition
 
-## Optimization/Encoding
+### Encoding
 
+### Transmission
 
-## Optimization/Transmission
+### Display
 
-
-## Optimization/Display
-
-
-## Optimization/Quality Assessments
-
+### Quality Assessments
 
 ## Applications
 
