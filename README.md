@@ -31,7 +31,8 @@ Hence, I collected some awesome papers and resources here!
 
 ### Surveys
 - C. Lee, A. Tabatabai, and K. Tashiro, "Free viewpoint video (FVV) survey and future research direction," 
-*APSIPA Transactions on Signal and Information Processing*, vol. 4, no. 15, pp. 1–10, October 2015.
+*APSIPA Transactions on Signal and Information Processing*, vol. 5, no. 15, pp. 1–10, October 2015.
+[[pdf]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/free-viewpoint-video-fvv-survey-and-future-research-direction/0E5F6708FD61193F78CF2BD3D6A58024)
 
 ## Contributing
 <p align="center">
@@ -44,13 +45,15 @@ Markdown format:
 ```markdown
 (Conference paper)
 - Author 1, Author 2 and Author 3, "Paper Name," 
-in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year. [[pdf]](link) [[code]](link)
+in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year. 
+[[pdf]](link) [[code]](link)
 ```
 
 ```markdown
 (Journal paper)
 - Auther 1, Auther 2 and Author 3, "Paper Name," 
-*Journal Name*, vol. xxx, no. xxx, pp. xxx-xxx, Month Year. [[pdf]](link) [[code]](link)
+*Journal Name*, vol. xxx, no. xxx, pp. xxx-xxx, Month Year. 
+[[pdf]](link) [[code]](link)
 ```
 
 ## License
