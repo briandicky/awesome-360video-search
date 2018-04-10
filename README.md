@@ -11,6 +11,7 @@ Majority of present global Internet traffic is due to video data ([Global Intern
 Streaming 360{\degree} videos further increases the Internet traffic amount, and becomes a hot research topic.
 Hence, I collected some awesome papers and resources here!
 
+----
 
 ## Table of Contents
 - [Surveys](#survey)
@@ -26,6 +27,7 @@ Hence, I collected some awesome papers and resources here!
 - [Applications](#application)
 - [Others](#other)
 
+----
 
 ## 360-degree Video Search
 
@@ -33,6 +35,12 @@ Hence, I collected some awesome papers and resources here!
 - C. Lee, A. Tabatabai, and K. Tashiro, "Free viewpoint video (FVV) survey and future research direction," 
 *APSIPA Transactions on Signal and Information Processing*, vol. 5, no. 15, pp. 1–10, October 2015.
 [[pdf]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/free-viewpoint-video-fvv-survey-and-future-research-direction/0E5F6708FD61193F78CF2BD3D6A58024)
+
+- M. Domański, O. Stankiewicz, K. Wegner and T. Grajek, "Immersive visual media — MPEG-I: 360 video, virtual navigation and beyond," 
+in *Proc. of International Conference on Systems, Signals and Image Processing (IWSSIP'17)*, Poznan, Poland, May 2017, pp. 1-9.
+[[pdf]](https://ieeexplore.ieee.org/document/7965623/)
+
+----
 
 ## Contributing
 <p align="center">
@@ -45,7 +53,7 @@ Markdown format:
 ```markdown
 (Conference paper)
 - Author 1, Author 2 and Author 3, "Paper Name," 
-in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year. 
+in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year, pp. xxx-xxx.
 [[pdf]](link) [[code]](link)
 ```
 
@@ -56,8 +64,9 @@ in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year.
 [[pdf]](link) [[code]](link)
 ```
 
-## License
+----
 
+## License
 [![PDM](https://licensebuttons.net/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Wen-Chih Lo](https://briandicky.github.io/) has waived all copyright and related or neighboring rights to this work.
