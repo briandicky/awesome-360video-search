@@ -23,9 +23,9 @@ Hence, I collected some awesome papers and resources here!
     - [Encoding](#encoding)
     - [Transmission](#transmission)
     - [Display](#display)
-    - [Quality Assessments](#quality)
-- [Applications](#application)
-- [Others](#other)
+    - [Quality Assessments](#quality-assessments)
+- [Applications](#applications)
+- [Others](#others)
 
 ----
 
