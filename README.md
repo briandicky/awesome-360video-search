@@ -29,74 +29,60 @@ Hence, I collected some awesome papers and resources here!
 
 ----
 
-## 360-degree Video Search
-
-### Surveys
-- C. Lee, A. Tabatabai, and K. Tashiro, "Free viewpoint video (FVV) survey and future research direction," 
-*APSIPA Transactions on Signal and Information Processing*, vol. 5, no. 15, pp. 1–10, October 2015.
-[[pdf]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/free-viewpoint-video-fvv-survey-and-future-research-direction/0E5F6708FD61193F78CF2BD3D6A58024)
-
-- M. Domański, O. Stankiewicz, K. Wegner and T. Grajek, "Immersive visual media — MPEG-I: 360 video, virtual navigation and beyond," 
-in *Proc. of International Conference on Systems, Signals and Image Processing (IWSSIP'17)*, Poznan, Poland, May 2017, pp. 1-9.
-[[pdf]](https://ieeexplore.ieee.org/document/7965623/)
-
-- J. Apostolopoulos and P. Chou and B. Culbertson and T. Kalker and M. Trott and S. Wee, "The Road to Immersive Communication,"
-*Proceedings of the IEEE*, vol. 100, no. 4, pp. 974-990, February 2012.
-[[pdf]](https://ieeexplore.ieee.org/document/6153337/)
+## Surveys
+- R. Krevelen and R. Poelman, "A Survey of Augmented Reality Technologies, Applications and Limitations,"
+*International Journal of Virtual Reality*, vol. 9, no. 2, pp. 1-20, June 2010.
+[[pdf]](https://www.researchgate.net/publication/279867852_A_Survey_of_Augmented_Reality_Technologies_Applications_and_Limitations)
 
 - A. Abbasi and U. Baroudi, "Immersive Environment: An Emerging Future of Telecommunications," 
 *IEEE MultiMedia*, vol. 19, no. 1, pp. 80-80, January 2012.
 [[pdf]](https://ieeexplore.ieee.org/document/6138575/)
 
-- R. Krevelen and R. Poelman, "A Survey of Augmented Reality Technologies, Applications and Limitations,"
-*International Journal of Virtual Reality*, vol. 9, no. 2, pp. 1-20, June 2010.
-[[pdf]](https://www.researchgate.net/publication/279867852_A_Survey_of_Augmented_Reality_Technologies_Applications_and_Limitations)
+- J. Apostolopoulos and P. Chou and B. Culbertson and T. Kalker and M. Trott and S. Wee, "The Road to Immersive Communication,"
+*Proceedings of the IEEE*, vol. 100, no. 4, pp. 974-990, February 2012.
+[[pdf]](https://ieeexplore.ieee.org/document/6153337/)
+
+- C. Lee, A. Tabatabai, and K. Tashiro, "Free viewpoint video (FVV) survey and future research direction," 
+*APSIPA Transactions on Signal and Information Processing*, vol. 5, no. 15, pp. 1–10, October 2015.
+[[pdf]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/free-viewpoint-video-fvv-survey-and-future-research-direction/0E5F6708FD61193F78CF2BD3D6A58024)
 
 - D. Chatzopoulos and C. Bermejo and Z. Huang and P. Hui, "Mobile Augmented Reality Survey: From Where We Are to Where We Go,"
 *IEEE Access*, vol. 5, pp. 6917-6950, April 2017.
 [[pdf]](https://ieeexplore.ieee.org/document/7912316/)
 
-
-----
-
-### Systems
-
-
-----
-
-### Datasets
+- M. Domański, O. Stankiewicz, K. Wegner and T. Grajek, "Immersive visual media — MPEG-I: 360 video, virtual navigation and beyond," 
+in *Proc. of International Conference on Systems, Signals and Image Processing (IWSSIP'17)*, Poznan, Poland, May 2017, pp. 1-9.
+[[pdf]](https://ieeexplore.ieee.org/document/7965623/)
 
 
-----
-
-### Open Software
+## Systems
 
 
-----
-
-### Optimization/Acquisition
+## Datasets
 
 
-### Optimization/Encoding
+## Open Software
 
 
-### Optimization/Transmission
+## Optimization/Acquisition
 
 
-### Optimization/Display
+## Optimization/Encoding
 
 
-### Optimization/Quality Assessments
+## Optimization/Transmission
 
 
-----
-
-### Applications
+## Optimization/Display
 
 
-----
+## Optimization/Quality Assessments
 
-### Others
+
+## Applications
+
+
+## Others
 
 
 ----
