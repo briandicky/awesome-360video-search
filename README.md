@@ -58,6 +58,15 @@ in *Proc. of International Conference on Systems, Signals and Image Processing (
 ## Systems
 
 ## Datasets
+
+- C. Wu and Z. Tan and Z. Wang and S. Yang, "A Dataset for Exploring User Behaviors in VR Spherical Video Streaming,"
+in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 193-198.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083210)
+
+- X. Corbillon and F. Simone and G. Simon, "360Degreee Video Head Movement Dataset,"
+in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 199-204.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083215) [[code]](https://github.com/xmar/360Degree_Head_Movement_Dataset)
+
 - Y. Rai and J. Guti{\'e}rrez and P. Callet, "A Dataset of Head and Eye Movements for 360 Degree Images,"
 in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 205-210.
 [[pdf]](https://dl.acm.org/citation.cfm?id=3083218)
@@ -66,13 +75,6 @@ in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, T
 in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 211-216.
 [[pdf]](https://dl.acm.org/citation.cfm?id=3083219) [[dataset]](https://nmsl.cs.nthu.edu.tw/360video/download.html)
 
-- X. Corbillon and F. Simone and G. Simon, "360Degreee Video Head Movement Dataset,"
-in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 199-204.
-[[pdf]](https://dl.acm.org/citation.cfm?id=3083215) [[code]](https://github.com/xmar/360Degree_Head_Movement_Dataset)
-
-- C. Wu and Z. Tan and Z. Wang and S. Yang, "A Dataset for Exploring User Behaviors in VR Spherical Video Streaming,"
-in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 193-198.
-[[pdf]](https://dl.acm.org/citation.cfm?id=3083210)
 
 ## Open Software
 
