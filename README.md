@@ -56,6 +56,18 @@ in *Proc. of International Conference on Systems, Signals and Image Processing (
 
 
 ## Systems
+- B. Petry and J. Huber, "Towards effective interaction with omnidirectional videos using immersive virtual reality headsets,"
+in *Proc. of the 6th Augmented Human International Conference (AH'15)*, Singapore, Singapore, March 2015, pp. 217-218.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2735785)
+
+- P. Alface and M. Aerts and D. Tytgat and S. Lievens and C. Stevens and N. Verzijp and J. Macq, "16K Cinematic VR Streaming,"
+in *Proceedings of the 2017 ACM on Multimedia Conference (MM'17)*, Mountain View, CA, October 2017, pp. 1105-1112.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3123266.3123307)
+
+- R. Anderson and D. Gallup and J. Barron and J. Kontkanen and N. Snavely and C. Hern{\'a}ndez and S. Agarwal and S. Seitz, "Jump: virtual reality video,"
+*ACM Transactions on Graphics*, vol. 35, no. 6, pp. 198-211.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2980179.2980257)
+
 
 ## Datasets
 
