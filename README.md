@@ -81,7 +81,7 @@ in *Proc. of the 20th ACM Symposium on Virtual Reality Software and Technology (
 [[pdf]](https://dl.acm.org/citation.cfm?id=2671135)
 
 - K. Choi and K. Jun, "Real-time panorama video system using networked multiple cameras,"
-*Journal of Systems Architecture: the EUROMICRO Journal*, vol. 64, no. C, pp. 110-121.
+*Journal of Systems Architecture: the EUROMICRO Journal*, vol. 64, no. C, pp. 110-121, March 2016.
 [[pdf]](https://dl.acm.org/citation.cfm?id=2937627)
 
 - N. Jiang, V. Swaminathan, and S. Wei, "Power Evaluation of 360 VR Video Streaming on Head Mounted Display Devices,"
