@@ -61,12 +61,33 @@ in *Proc. of the 6th Augmented Human International Conference (AH'15)*, Singapor
 [[pdf]](https://dl.acm.org/citation.cfm?id=2735785)
 
 - P. Alface and M. Aerts and D. Tytgat and S. Lievens and C. Stevens and N. Verzijp and J. Macq, "16K Cinematic VR Streaming,"
-in *Proceedings of the 2017 ACM on Multimedia Conference (MM'17)*, Mountain View, CA, October 2017, pp. 1105-1112.
+in *Proc. of the 2017 ACM on Multimedia Conference (MM'17)*, Mountain View, CA, October 2017, pp. 1105-1112.
 [[pdf]](https://dl.acm.org/citation.cfm?id=3123266.3123307)
 
 - R. Anderson and D. Gallup and J. Barron and J. Kontkanen and N. Snavely and C. Hern{\'a}ndez and S. Agarwal and S. Seitz, "Jump: virtual reality video,"
 *ACM Transactions on Graphics*, vol. 35, no. 6, pp. 198-211.
 [[pdf]](https://dl.acm.org/citation.cfm?id=2980179.2980257)
+
+- A. Ferworn, B. Waismark and M. Scanlan, "CAT 360 — Canine augmented technology 360-degree video system," 
+in *Proc. of the 2015 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR'15)*, West Lafayette, IN, October 2015, pp. 1-4.
+[[pdf]](https://ieeexplore.ieee.org/document/7443003/)
+
+- L. Gaemperle, K. Seyid, V. Popovic and Y. Leblebici, "An Immersive Telepresence System Using a Real-Time Omnidirectional Camera and a Virtual Reality Head-Mounted Display," 
+in *Proc. of the 2014 IEEE International Symposium on Multimedia (ISM'14)*, Taichung, Taiwan, December 2014, pp. 175-178.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/7033017/)
+
+- E. Canessa and L. Tenze, "FishEyA: live broadcasting around 360 degrees,"
+in *Proc. of the 20th ACM Symposium on Virtual Reality Software and Technology (VRST '14)*, Edinburgh, Scotland, November 2014, pp. 227-228.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2671135)
+
+- K. Choi and K. Jun, "Real-time panorama video system using networked multiple cameras,"
+*Journal of Systems Architecture: the EUROMICRO Journal*, vol. 64, no. C, pp. 110-121.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2937627)
+
+- N. Jiang, V. Swaminathan, and S. Wei, "Power Evaluation of 360 VR Video Streaming on Head Mounted Display Devices,"
+in *Proc. of the 27th Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV'17)*, Taipei, Taiwan, June 2017, pp. 55-60.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083173)
+
 
 
 ## Datasets
