@@ -88,6 +88,29 @@ in *Proc. of the 20th ACM Symposium on Virtual Reality Software and Technology (
 in *Proc. of the 27th Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV'17)*, Taipei, Taiwan, June 2017, pp. 55-60.
 [[pdf]](https://dl.acm.org/citation.cfm?id=3083173)
 
+- D. Ochi, Y. Kunita, K. Fujii, A. Kojima, S. Iwaki, and J. Hirose, "HMD Viewing Spherical Video Streaming System,"
+in *Proc. of the 22nd ACM international conference on Multimedia (MM '14)*, Orlando, FL, November 2014, pp. 763-764.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2654870)
+
+- D. Ochi, Y. Kunita, A. Kameda, A. Kojima and S. Iwaki, "Live streaming system for omnidirectional video," 
+in *Proc. of the 2015 IEEE Virtual Reality (VR'15)*, Arles, France, March 2015, pp. 349-350.
+[[pdf]](https://ieeexplore.ieee.org/document/7223439/)
+
+- F. Qian, L. Ji, B. Han, and V. Gopalakrishnan, "Optimizing 360 Video Delivery over Cellular Networks,"
+in *Proc. of Workshop on All Things Cellular Operations, Applications and Challenges (ATC’16)*, New York City, NY, October 2016, pp. 1–6.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2980056)
+
+- X. Xie and X. Zhang, "POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks,"
+in *Proc. of International Conference on Emerging Networking EXperiments and Technologies (CoNEXT’17)*, Incheon, Republic of Korea, December 2017, pp. 336–349.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3143381)
+
+- X. Corbillon, G. Simon, A. Devlic and J. Chakareski, "Viewport-adaptive navigable 360-degree video delivery," 
+in *Proc. of the 2017 IEEE International Conference on Communications (ICC'17)*, Paris, France, May 2017, pp. 1-7.
+[[pdf]](https://ieeexplore.ieee.org/document/7996611/) [[code]](https://github.com/xmar/optimal-set-representation-viewport-adaptive-streaming)
+
+- R. Schäfer, P. Kauff, R. Skupin, Y. Sánchez and C. weißig, "Interactive Steaming of Panoramas and VR Worlds,"
+*SMPTE Motion Imaging Journal*, vol. 126, no. 1, pp. 35-42, February 2017.
+[[pdf]](https://ieeexplore.ieee.org/document/7847668/)
 
 
 ## Datasets
