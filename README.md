@@ -8,7 +8,7 @@
 Over the past years, Virtual Reality (VR) products, such as Head-Mounted Displays (HMDs), become widely available. 
 With the growing popularity of commercial VR products, more viewers are able to watch 360-degree videos with HMDs.
 Majority of present global Internet traffic is due to video data ([Global Internet Phenomena](https://www.sandvine.com/trends/global-internet-phenomena/)). 
-Streaming 360{\degree} videos further increases the Internet traffic amount, and becomes a hot research topic.
+Streaming 360-degree videos further increases the Internet traffic amount, and becomes a hot research topic.
 Hence, I collected some awesome papers and resources here!
 
 ----
@@ -82,6 +82,7 @@ in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, T
 ## Optimization
 
 ### Acquisition
+- 
 
 ### Encoding
 
