@@ -56,6 +56,62 @@ in *Proc. of International Conference on Systems, Signals and Image Processing (
 
 
 ## Systems
+- B. Petry and J. Huber, "Towards effective interaction with omnidirectional videos using immersive virtual reality headsets,"
+in *Proc. of the 6th Augmented Human International Conference (AH'15)*, Singapore, Singapore, March 2015, pp. 217-218.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2735785)
+
+- P. Alface and M. Aerts and D. Tytgat and S. Lievens and C. Stevens and N. Verzijp and J. Macq, "16K Cinematic VR Streaming,"
+in *Proc. of the 2017 ACM on Multimedia Conference (MM'17)*, Mountain View, CA, October 2017, pp. 1105-1112.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3123266.3123307)
+
+- R. Anderson and D. Gallup and J. Barron and J. Kontkanen and N. Snavely and C. Hern{\'a}ndez and S. Agarwal and S. Seitz, "Jump: virtual reality video,"
+*ACM Transactions on Graphics*, vol. 35, no. 6, pp. 198-211.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2980179.2980257)
+
+- A. Ferworn, B. Waismark and M. Scanlan, "CAT 360 — Canine augmented technology 360-degree video system," 
+in *Proc. of the 2015 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR'15)*, West Lafayette, IN, October 2015, pp. 1-4.
+[[pdf]](https://ieeexplore.ieee.org/document/7443003/)
+
+- L. Gaemperle, K. Seyid, V. Popovic and Y. Leblebici, "An Immersive Telepresence System Using a Real-Time Omnidirectional Camera and a Virtual Reality Head-Mounted Display," 
+in *Proc. of the 2014 IEEE International Symposium on Multimedia (ISM'14)*, Taichung, Taiwan, December 2014, pp. 175-178.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/7033017/)
+
+- E. Canessa and L. Tenze, "FishEyA: live broadcasting around 360 degrees,"
+in *Proc. of the 20th ACM Symposium on Virtual Reality Software and Technology (VRST '14)*, Edinburgh, Scotland, November 2014, pp. 227-228.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2671135)
+
+- K. Choi and K. Jun, "Real-time panorama video system using networked multiple cameras,"
+*Journal of Systems Architecture: the EUROMICRO Journal*, vol. 64, no. C, pp. 110-121, March 2016.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2937627)
+
+- N. Jiang, V. Swaminathan, and S. Wei, "Power Evaluation of 360 VR Video Streaming on Head Mounted Display Devices,"
+in *Proc. of the 27th Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV'17)*, Taipei, Taiwan, June 2017, pp. 55-60.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083173)
+
+- D. Ochi, Y. Kunita, K. Fujii, A. Kojima, S. Iwaki, and J. Hirose, "HMD Viewing Spherical Video Streaming System,"
+in *Proc. of the 22nd ACM international conference on Multimedia (MM '14)*, Orlando, FL, November 2014, pp. 763-764.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2654870)
+
+- D. Ochi, Y. Kunita, A. Kameda, A. Kojima and S. Iwaki, "Live streaming system for omnidirectional video," 
+in *Proc. of the 2015 IEEE Virtual Reality (VR'15)*, Arles, France, March 2015, pp. 349-350.
+[[pdf]](https://ieeexplore.ieee.org/document/7223439/)
+
+- F. Qian, L. Ji, B. Han, and V. Gopalakrishnan, "Optimizing 360 Video Delivery over Cellular Networks,"
+in *Proc. of Workshop on All Things Cellular Operations, Applications and Challenges (ATC’16)*, New York City, NY, October 2016, pp. 1–6.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2980056)
+
+- X. Xie and X. Zhang, "POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks,"
+in *Proc. of International Conference on Emerging Networking EXperiments and Technologies (CoNEXT’17)*, Incheon, Republic of Korea, December 2017, pp. 336–349.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3143381)
+
+- X. Corbillon, G. Simon, A. Devlic and J. Chakareski, "Viewport-adaptive navigable 360-degree video delivery," 
+in *Proc. of the 2017 IEEE International Conference on Communications (ICC'17)*, Paris, France, May 2017, pp. 1-7.
+[[pdf]](https://ieeexplore.ieee.org/document/7996611/) [[code]](https://github.com/xmar/optimal-set-representation-viewport-adaptive-streaming)
+
+- R. Schäfer, P. Kauff, R. Skupin, Y. Sánchez and C. weißig, "Interactive Steaming of Panoramas and VR Worlds,"
+*SMPTE Motion Imaging Journal*, vol. 126, no. 1, pp. 35-42, February 2017.
+[[pdf]](https://ieeexplore.ieee.org/document/7847668/)
+
 
 ## Datasets
 
