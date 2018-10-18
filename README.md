@@ -106,7 +106,7 @@ in *Proc. of International Conference on Emerging Networking EXperiments and Tec
 
 - X. Corbillon, G. Simon, A. Devlic and J. Chakareski, "Viewport-adaptive navigable 360-degree video delivery," 
 in *Proc. of the 2017 IEEE International Conference on Communications (ICC'17)*, Paris, France, May 2017, pp. 1-7.
-[[pdf]](https://ieeexplore.ieee.org/document/7996611/) [[code]](https://github.com/xmar/optimal-set-representation-viewport-adaptive-streaming)
+[[pdf]](https://ieeexplore.ieee.org/document/7996611/) [[software]](https://github.com/xmar/optimal-set-representation-viewport-adaptive-streaming)
 
 - R. Schäfer, P. Kauff, R. Skupin, Y. Sánchez and C. weißig, "Interactive Steaming of Panoramas and VR Worlds,"
 *SMPTE Motion Imaging Journal*, vol. 126, no. 1, pp. 35-42, February 2017.
@@ -114,14 +114,13 @@ in *Proc. of the 2017 IEEE International Conference on Communications (ICC'17)*,
 
 
 ## Datasets
-
 - C. Wu and Z. Tan and Z. Wang and S. Yang, "A Dataset for Exploring User Behaviors in VR Spherical Video Streaming,"
 in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 193-198.
 [[pdf]](https://dl.acm.org/citation.cfm?id=3083210)
 
 - X. Corbillon and F. Simone and G. Simon, "360Degreee Video Head Movement Dataset,"
 in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 199-204.
-[[pdf]](https://dl.acm.org/citation.cfm?id=3083215) [[code]](https://github.com/xmar/360Degree_Head_Movement_Dataset)
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083215) [[software]](https://github.com/xmar/360Degree_Head_Movement_Dataset)
 
 - Y. Rai and J. Guti{\'e}rrez and P. Callet, "A Dataset of Head and Eye Movements for 360 Degree Images,"
 in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 205-210.
@@ -133,12 +132,43 @@ in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, T
 
 
 ## Open Software
+### Codec
+- M. Viitanen, A. Koivula, A. Lemmetti, A. Ylä-Outinen, J. Vanne, and T. Hämäläinen, "Kvazaar: Open-Source HEVC/H.265 Ensoftwarer,"
+in *Proc.of the 2016 ACM on Multimedia Conference (MM'16)*, Amsterdam, The Netherlands, October 2016, pp. 1179-1182.
+[[pdf]](https://dl.acm.org/citation.cfm?id=2973796) [[software]](https://github.com/ultravideo/kvazaar)
+
+- High Efficiency Video Coding (HEVC) Test Model.
+[[web]](https://hevc.hhi.fraunhofer.de/) [[software]](https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/)
+
+- HEVC Scalability Extension (SHVC) Test Model. 
+[[web]](https://hevc.hhi.fraunhofer.de/shvc) [[software]](https://hevc.hhi.fraunhofer.de/svn/svn_SHVCSoftware/)
+
+### Projection
+- 360Lib
+[[web]](https://mpeg.chiariglione.org/standards/mpeg-i/versatile-video-coding) 
+
+- Facebook/Surround360
+[[software]](https://github.com/facebook/Surround360)
+
+- Samsung/360tools
+[[software]](https://github.com/Samsung/360tools)
+
+- X. Corbillon, F. Simone, and G. Simon, "360-Degree Video Head Movement Dataset,"
+in *Proc. of the 8th ACM on Multimedia Systems Conference (MMSys'17)*, Taipei, Taiwan, June 2017, pp. 199-204.
+[[pdf]](https://dl.acm.org/citation.cfm?id=3083215) [[software]](https://github.com/xmar/360Transformations)
+
+### Packager
+
+### Player
+
+### Tracker
+
+### Others
 
 
 ## Optimization
 
 ### Acquisition
-- 
 
 ### Encoding
 
@@ -168,14 +198,20 @@ Markdown format:
 (Conference paper)
 - Author 1, Author 2 and Author 3, "Paper Name," 
 in *Proc. of Conference Name (Series'Year)*, City, Nation, Month Year, pp. xxx-xxx.
-[[pdf]](link) [[code]](link)
+[[pdf]](link) [[software]](link)
 ```
 
 ```markdown
 (Journal paper)
 - Auther 1, Auther 2 and Author 3, "Paper Name," 
 *Journal Name*, vol. xxx, no. xxx, pp. xxx-xxx, Month Year. 
-[[pdf]](link) [[code]](link)
+[[pdf]](link) [[software]](link)
+```
+
+```markdown
+(webpage)
+- Name
+[[web]](link) [[software]](link)
 ```
 
 ----
